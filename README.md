@@ -1,2 +1,2 @@
 # jinlin
-for some momory
+for some memory
